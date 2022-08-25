@@ -12,7 +12,7 @@ Name it your first initial and your last name. ie. Mark Smith would be msmith
 
 git checkout -b [BRANCH NAME]
 
-## Step Three: Open the file and edit it in a plain text editor.
+## Step Three: Open the file AboutMe.txt and edit it in a plain text editor.
 Add your name, underline it using dashes. Write a short paragraph about yourself.
 
 ## Step Four: Add the edited file to the commit.
