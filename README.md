@@ -2,15 +2,18 @@
 
 This assignment is to make sure you are comfortable using Git. At the end, you will have created your own branch off of a main branch, made your own edits, pushed those edits to the source server, and will have sent a pull request to have your changes merged with the main branch. Be sure to add your GitHub name to the assignment "Give Me Your Github Username" located on this Canvas course. You will receive an invitation to participate in the project via email once I have uploaded your username to the GitHub repo. That's when you know you will have permission to push your changes to the GitHub server.
 
-## Step One: Clone this repo to your local machine: https://github.com/sunnyntini/csc340homework-01.git (Links to an external site.)(Links to an external site.)
+## Step One: Clone this repo to your local machine:
+https://github.com/sunnyntini/csc340homework-01.git (Links to an external site.)
 
 git clone
 
-## Step Two: Create your own branch. Name it your first initial and your last name. ie. Mark Smith would be msmith 
+## Step Two: Create your own branch.
+Name it your first initial and your last name. ie. Mark Smith would be msmith 
 
 git checkout -b <BRANCH NAME>
 
-## Step Three: Open the file and edit it in a plain text editor. Add your name, underline it using dashes. Write a short paragraph about yourself.
+## Step Three: Open the file and edit it in a plain text editor.
+Add your name, underline it using dashes. Write a short paragraph about yourself.
 
 ## Step Four: Add the edited file to the commit.
 
@@ -20,7 +23,10 @@ git add --all
 
 git commit -m "Write a brief description of why you are making this commit."
 
-## Step Six: Pull from the main branch into your branch. More edits may have been to the document from other users in the time it took you to clone the file and update it. To resolve any potential conflicts and make sure your document is up-to-date, pull from Master again. Note, if there are any updates or merge conflicts that have to be resolved, Go to Step 4.
+## Step Six: Pull from the main branch into your branch.
+More edits may have been to the document from other users in the time it took you to clone the file and update it.
+To resolve any potential conflicts and make sure your document is up-to-date, pull from Master again.
+Note, if there are any updates or merge conflicts that have to be resolved, Go to Step 4.
 
 git pull origin master
 
