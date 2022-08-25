@@ -10,7 +10,7 @@ git clone
 ## Step Two: Create your own branch.
 Name it your first initial and your last name. ie. Mark Smith would be msmith 
 
-git checkout -b <BRANCH NAME>
+git checkout -b [BRANCH NAME]
 
 ## Step Three: Open the file and edit it in a plain text editor.
 Add your name, underline it using dashes. Write a short paragraph about yourself.
@@ -32,7 +32,7 @@ git pull origin master
 
 ## Step Seven: Push your branch to origin.
 
-git push origin <BRANCH NAME>
+git push origin [BRANCH NAME]
 
 ## Step Eight: Log into GitHub and make a pull request.
 
