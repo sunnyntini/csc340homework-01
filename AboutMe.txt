@@ -45,3 +45,8 @@ Hello, I am a computer science major and have been in love with the possibilitie
 Jessica Frank
 ------------------------------
 I am a student at UNCG, and my major is Computer Science. I like puzzles, games, and coding.
+
+Justin Kim
+------------------------------
+My name is Justin Kim, I am Cambodian and I am majoring in Computer Science. I like to play video games,
+I am currently playing Destiny again. I like watching anime, horror movies, and cooking shows.
