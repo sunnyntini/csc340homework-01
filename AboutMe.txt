@@ -28,4 +28,7 @@ I am Fox, I am a computer science undergrade at UNCG and I enjoy making trashy m
 
 Joshua Hinojo
 ------------------------------
-I am a Comp. Sci. and Mathematics major. I'm originally from California and I'd be lying if I said I didn't miss it. I like sci-fi movies, shows, and basically any type of game from chess to God of War to basketball. That's all you'll get from me though. See ya!
+I am a Comp. Sci. and Mathematics major. I'm originally from California
+and I'd be lying if I said I didn't miss it. I like sci-fi movies, shows,
+and basically any type of game from chess to God of War to basketball. 
+That's all you'll get from me though. See ya!
