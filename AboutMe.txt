@@ -13,3 +13,7 @@ Theo O.
 I am a student of Computer Science. I have a AS in Comp Sci from KCC. 
 I did my branch name using my first name because I don't like the idea of my last name being posted publicly.
 I like videogames, playing piano and coding.
+
+Yinru Li
+--------
+I'm a Computer Science undergraduate student at UNCG. I like karaoke, billiard, and body-weight workout.
