@@ -72,3 +72,6 @@ Senih Tosun
 ------------------
 I'm a Computer Science undergrad here at UNCG. Interested in travelling and sports, I also do calisthenics.  
 
+Evan Corsar
+---------------------
+Hello all! I'm Evan and I am a Junior in computer science. I am hoping to graduate and start working on some fun coding projects!
