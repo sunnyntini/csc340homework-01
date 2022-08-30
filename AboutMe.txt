@@ -68,6 +68,10 @@ do androids dream when they sleep,
 or simply turn off?"
 Senior at UNCG, weekend bartender, distance runner, lifelong learner, casual gamer
 
+Joshua Pellegrino
+---------------------
+Hello my name is Joshua and I am a senior at UNCG. I enoy playing video games and hanging out with friends. I was born in San Francisco, CA.
+
 Sofie Muska
 -----------
 My name is Sofie Muska. I am a Computer Science, English, and French major. I am fluent in three languages, and I enjoy rock climbing.
@@ -108,3 +112,4 @@ Hello I go by Martin and I usually consider myself to be a background character.
 Evan Corsar
 ---------------------
 Hello all! I'm Evan and I am a Junior in computer science. I am hoping to graduate and start working on some fun coding projects!
+
