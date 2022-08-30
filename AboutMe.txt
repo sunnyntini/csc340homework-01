@@ -88,6 +88,10 @@ Senih Tosun
 ------------------
 I'm a Computer Science undergrad here at UNCG. Interested in travelling and sports, I also do calisthenics.  
 
+Alec Droegemeier
+--------------------------------
+I am a Computer Science major at UNCG, I like to play tennis, video games, and rock climbing!
+
 Muizz Muhammad
 -----------------------------
 Hello. I am a computer science major here at UNCG. I like to play basketball,code , and lift weights.
@@ -95,3 +99,4 @@ Hello. I am a computer science major here at UNCG. I like to play basketball,cod
 Martin Palacios Quiroz
 -----------------------------
 Hello I go by Martin and I usually consider myself to be a background character.
+
