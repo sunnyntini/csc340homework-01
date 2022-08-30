@@ -105,3 +105,6 @@ Martin Palacios Quiroz
 -----------------------------
 Hello I go by Martin and I usually consider myself to be a background character.
 
+Evan Corsar
+---------------------
+Hello all! I'm Evan and I am a Junior in computer science. I am hoping to graduate and start working on some fun coding projects!
