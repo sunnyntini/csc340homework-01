@@ -72,7 +72,14 @@ Sofie Muska
 -----------
 My name is Sofie Muska. I am a Computer Science, English, and French major. I am fluent in three languages, and I enjoy rock climbing.
 
-=======
+Nishant Sharma
+---------------------
+Hi everyone, my name is Nishant Sharma. I am a computer science major. I love gaming and playing soccer.
+
+Benjamin Woods
+--------------
+Hi, I like to create good things and create good feelings. 
+
 Sara Gable
 ------------------------
 Hello all! I'm a compsci student who enjoys music, games, and cosplay. God bless!
@@ -80,5 +87,9 @@ Hello all! I'm a compsci student who enjoys music, games, and cosplay. God bless
 Senih Tosun
 ------------------
 I'm a Computer Science undergrad here at UNCG. Interested in travelling and sports, I also do calisthenics.  
+
+Muizz Muhammad
+-----------------------------
+Hello. I am a computer science major here at UNCG. I like to play basketball,code , and lift weights.
 
 
