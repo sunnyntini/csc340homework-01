@@ -68,6 +68,22 @@ do androids dream when they sleep,
 or simply turn off?"
 Senior at UNCG, weekend bartender, distance runner, lifelong learner, casual gamer
 
+Joshua Pellegrino
+---------------------
+Hello my name is Joshua and I am a senior at UNCG. I enoy playing video games and hanging out with friends. I was born in San Francisco, CA.
+
+Sofie Muska
+-----------
+My name is Sofie Muska. I am a Computer Science, English, and French major. I am fluent in three languages, and I enjoy rock climbing.
+
+Nishant Sharma
+---------------------
+Hi everyone, my name is Nishant Sharma. I am a computer science major. I love gaming and playing soccer.
+
+Benjamin Woods
+--------------
+Hi, I like to create good things and create good feelings. 
+
 Sara Gable
 ------------------------
 Hello all! I'm a compsci student who enjoys music, games, and cosplay. God bless!
@@ -76,8 +92,28 @@ Senih Tosun
 ------------------
 I'm a Computer Science undergrad here at UNCG. Interested in travelling and sports, I also do calisthenics.
 
-
 Andrew Van Es
 ---------------------
 I am working towards a Computer Science here at UNCG. I like to play Video Games in my free time. I was born in Holland.
+
+Alex Wesley
+------------------
+I'm a student at UNCG majoring in Computer Science. I enjoy spending time with my family and usually spend
+my free time playing videogames or watching Netflix. 
+
+Alec Droegemeier
+--------------------------------
+I am a Computer Science major at UNCG, I like to play tennis, video games, and rock climbing!
+
+Muizz Muhammad
+-----------------------------
+Hello. I am a computer science major here at UNCG. I like to play basketball,code , and lift weights.
+
+Martin Palacios Quiroz
+-----------------------------
+Hello I go by Martin and I usually consider myself to be a background character.
+
+Evan Corsar
+---------------------
+Hello all! I'm Evan and I am a Junior in computer science. I am hoping to graduate and start working on some fun coding projects!
 
