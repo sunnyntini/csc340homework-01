@@ -123,11 +123,20 @@ My name is Kristin and I'm a Senior at UNCG.
 I like to play video games, especially puzzle ones.
 I also have a dog named Blackie.
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Kayla Abreu
 -------------
 Hello my name is Kayla Abreu, I am a senior in computer science and I love playing video games and watching movies. I also love eating pizza.
 =======
+=======
+
+Benjamin Beach
+----------------------
+Hello my name is Benjamin. I am a Junior at UNCG, majoring in computer science.
+I enjoy playing games, traveling, and coding.
+
+>>>>>>> 8a9ba4daa9e250dff9a29b283d49e21ae113545e
 ------------------
 My name is Aimade Yacouba, my major is computer science and I'm a junior.
 I run cross country and track for uncg
