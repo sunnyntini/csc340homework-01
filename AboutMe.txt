@@ -122,7 +122,14 @@ Kristin Cattell
 My name is Kristin and I'm a Senior at UNCG.
 I like to play video games, especially puzzle ones.
 I also have a dog named Blackie.
+<<<<<<< HEAD
 
 Kayla Abreu
 -------------
 Hello my name is Kayla Abreu, I am a senior in computer science and I love playing video games and watching movies. I also love eating pizza.
+=======
+------------------
+My name is Aimade Yacouba, my major is computer science and I'm a junior.
+I run cross country and track for uncg
+-------------------------------
+>>>>>>> cc56deac4565e07a2e647fadd0f8f11856be638c
