@@ -68,6 +68,17 @@ do androids dream when they sleep,
 or simply turn off?"
 Senior at UNCG, weekend bartender, distance runner, lifelong learner, casual gamer
 
+<<<<<<< HEAD
 Joshua Pellegrino
 ---------------------
 Hello my name is Joshua and I am a senior at UNCG. I enoy playing video games and hanging out with friends. I was born in San Francisco, CA.
+=======
+Sara Gable
+------------------------
+Hello all! I'm a compsci student who enjoys music, games, and cosplay. God bless!
+
+Senih Tosun
+------------------
+I'm a Computer Science undergrad here at UNCG. Interested in travelling and sports, I also do calisthenics.  
+
+>>>>>>> 1e66a4ffc62c1f2619746fedce65c87d0c48b433
