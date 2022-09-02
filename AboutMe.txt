@@ -123,6 +123,32 @@ My name is Kristin and I'm a Senior at UNCG.
 I like to play video games, especially puzzle ones.
 I also have a dog named Blackie.
 
+Kayla Abreu
+-------------
+Hello my name is Kayla Abreu, I am a senior in computer science and I love playing video games and watching movies. I also love eating pizza.
+
+Silas Bucur
+--------------------
+I am 19 with a CS Major and work at Chick-fil-A. I have four brothers.
+
+David Amaya
+----------------
+Hello, I am a computer science major and I'm a junior. I enjoy fixing thing and playing video games on my free time.
+
+Laura Love
+---------------------
+I'm a CS major and I like to read, watch TV, and crochet.
+
+----------------------------------------
+
+Hey. I'm Bee Yang. I am getting my 2nd bachelor degree in computer science. My first degree was in biology. I enjoy being outdoors and doing outdoor activies.
+
+------------------------------------------------
+
+Gary Elam
+------------------------------
+My name is Gary and I am a computer science major. I like to do open source programming and make games (that aren't very good)
+
 Benjamin Beach
 ----------------------
 Hello my name is Benjamin. I am a Junior at UNCG, majoring in computer science.
