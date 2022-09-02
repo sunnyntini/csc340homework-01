@@ -157,4 +157,9 @@ I enjoy playing games, traveling, and coding.
 ------------------
 My name is Aimade Yacouba, my major is computer science and I'm a junior.
 I run cross country and track for uncg
-
+-------------------------------
+Marcus Harrington
+------------------
+Hello i am a junior at UNCG, i plan on majoring in computer science. 
+i enjoy gameing, codeing, and wasteing 3 HOURS of my life trying to make git 
+work when the probelem was that i put the folder in an admin only folder on accident.
