@@ -92,6 +92,10 @@ Senih Tosun
 ------------------
 I'm a Computer Science undergrad here at UNCG. Interested in travelling and sports, I also do calisthenics.
 
+Xavier Freeman 
+-------------------------
+Hey Guys, you can call me X. I'm a senior here at UNCG and I enjoy gaming, hanging with friends, and playing basketball. 
+
 Andrew Van Es
 ---------------------
 I am working towards a Computer Science here at UNCG. I like to play Video Games in my free time. I was born in Holland.
@@ -158,8 +162,10 @@ I enjoy playing games, traveling, and coding.
 My name is Aimade Yacouba, my major is computer science and I'm a junior.
 I run cross country and track for uncg
 -------------------------------
+
 Marcus Harrington
 ------------------
 Hello i am a junior at UNCG, i plan on majoring in computer science. 
 i enjoy gameing, codeing, and wasteing 3 HOURS of my life trying to make git 
 work when the probelem was that i put the folder in an admin only folder on accident.
+
