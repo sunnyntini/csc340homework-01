@@ -126,3 +126,12 @@ I also have a dog named Blackie.
 Gary Elam
 ------------------------------
 My name is Gary and I am a computer science major. I like to do open source programming and make games (that aren't very good)
+
+Benjamin Beach
+----------------------
+Hello my name is Benjamin. I am a Junior at UNCG, majoring in computer science.
+I enjoy playing games, traveling, and coding.
+
+------------------
+My name is Aimade Yacouba, my major is computer science and I'm a junior.
+I run cross country and track for uncg
