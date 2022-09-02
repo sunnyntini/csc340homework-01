@@ -123,6 +123,12 @@ My name is Kristin and I'm a Senior at UNCG.
 I like to play video games, especially puzzle ones.
 I also have a dog named Blackie.
 
+----------------------------------------
+
+Hey. I'm Bee Yang. I am getting my 2nd bachelor degree in computer science. My first degree was in biology. I enjoy being outdoors and doing outdoor activies.
+
+------------------------------------------------
+
 Gary Elam
 ------------------------------
 My name is Gary and I am a computer science major. I like to do open source programming and make games (that aren't very good)
@@ -135,3 +141,4 @@ I enjoy playing games, traveling, and coding.
 ------------------
 My name is Aimade Yacouba, my major is computer science and I'm a junior.
 I run cross country and track for uncg
+
